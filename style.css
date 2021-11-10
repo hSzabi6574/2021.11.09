@@ -1,0 +1,10 @@
+h1{ 
+  color:blueviolet
+}
+
+#content {
+    width: 600px;
+    border: 1px solid chocolate
+    padding: 50px
+    background-color:#eee
+}
